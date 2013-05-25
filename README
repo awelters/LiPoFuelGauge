@@ -1,1 +1,3 @@
-Maxim MAX17043 Fuel Gauge Wire Library
+LiPo Fuel Gauge Library for Arduino
+based on the Maxim MAX17043 Fuel Gauge IC Specs
+https://www.sparkfun.com/products/10617
